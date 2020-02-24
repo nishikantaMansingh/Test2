@@ -1,2 +1,5 @@
 hello git.
+
 line from master.
+
+line from bug fix.
