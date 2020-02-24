@@ -1,4 +1,1 @@
-hello 
-line entered from master.
 hello git.
-first line from branch.
